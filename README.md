@@ -42,11 +42,11 @@ Exercitar a lógica de programação e os principais recursos de manipulação d
 
   1. Clone o repositório:
 
-    git clone https://github.com/ekthra/Lista3-ListaSequencial.git
+    git clone https://github.com/ekthra/Lista3-ListaSequencialpy.git
 
   2.Acesse a pasta do projeto:
 
-    cd Lista3-ListaSequencial
+    cd Lista3-ListaSequencialpy
 
   3.Execute o arquivo com Python 3:
 
